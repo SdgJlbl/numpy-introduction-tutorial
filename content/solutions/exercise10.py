@@ -1,0 +1,6 @@
+data = np.loadtxt("../data/simple_array.csv", delimiter=",")
+print(data)
+print("minimum", np.min(data, axis=0))
+print("maximum", np.max(data, axis=0))
+print("average", np.mean(data, axis=0))
+print("standard deviation", np.std(data, axis=0))

@@ -132,7 +132,7 @@ $ jupyter notebook
 
 ### Using JupyterLite
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://sdgjlbl.github.io/numpy-introduction-tutorial/)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://sdg.jlbl.net/numpy-introduction-tutorial/lab/index.html?path=notebooks%2F0.+What+is+NumPy.ipynb)
 
 If you don't want to install anything on your machine, you can follow along using JupyterLite from your browser.
 Click on the badge, and a Jupyter lab interface will open in a new tab. 
